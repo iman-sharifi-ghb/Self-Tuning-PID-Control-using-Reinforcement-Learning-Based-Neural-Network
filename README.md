@@ -15,5 +15,5 @@ and Back-Propagation (BP) algorithm. This method is online, able to tackle distu
 robustness to mass uncertainty and wind gust disturbance, results showed that the proposed method had a better performance when
 compared to a PID controller with constant gains.
 
-You can access to the paper via this [link]().
+You can access to the paper via this [link](https://github.com/98210184/Self-Tuniing-PID-Control-using-Reinforcement-Learning-Based-Neural-Network/blob/main/Article%20-%20Intelligent%20Self-Tuning%20PID%20Controller.pdf).
 
